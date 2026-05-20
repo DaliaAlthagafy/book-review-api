@@ -125,12 +125,9 @@ Expected response:
 ## Screenshots
 
 ### JWT Login
+![JWT Login](./screenshots/image.png)
 
-![JWT Login](screenshots/image.png)
-
-### Add Review
-
-![Add Review](screenshots/image2.png)
+![Add Review](./screenshots/image2.png)
 
 Models
 Book
